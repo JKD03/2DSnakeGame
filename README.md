@@ -1,10 +1,12 @@
 # 2D SNAKE GAME
 make using Turtle 
 
-# keybinds
-Arrow keys for movements
-Enter to start the game
-P to pause the game
+# Controls
+- **Arrow keys**: Move character in different directions.
+- **Enter key**: Start the game.
+- **P key**: Pause the game.
+
+
 
 The Snake speed can be increased/decreased by changing the delay(global variable)
 
