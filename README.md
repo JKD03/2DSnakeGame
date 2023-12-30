@@ -1,5 +1,5 @@
 # 2D SNAKE GAME
-make using Turtle 
+Made using Turtle 
 
 # Controls
 - **Arrow keys**: Move character in different directions.
